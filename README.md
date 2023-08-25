@@ -1,12 +1,6 @@
 WeThinkCode Projects Repository
 This repository contains all the projects I completed during my time at WeThinkCode. Each project is stored in its own folder within this repository, with a brief description of the project and the tools and technologies used to complete it.
 
-Projects
-Project 1: 
-Project 2: 
-Project 3: 
-Project 4: 
-Project 5: 
 Getting Started
 To access any of the projects in this repository, simply navigate to the relevant folder. Each folder contains all the files and resources needed to run and test the project.
 
